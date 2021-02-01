@@ -1,0 +1,98 @@
+
+/*
+*/
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+h1{
+    color:white
+}
+
+body{
+    background-color: #3bc472;
+}
+
+.clase1{
+    background-color: white;
+    border-radius:2000px;
+    width: 40%;
+    border: 5px solid ;
+    text-align: center;
+    position: relative;
+    top:10px;
+    left: 320px;
+    
+}
+/* bloque marron*/
+.clase2{
+    background-color: #8b4513;
+    border: 6px solid #522900;
+    color: white;
+    width: 50%;
+    margin: 2%;
+    
+    
+    
+    
+}
+.clase3{
+    background-color: #8b4513;
+    border: 6px solid #522900;
+    color: white;
+    width: 50%;
+    margin: 2%;
+   
+   
+    
+}
+/* fin bloque marron*/
+/* posiciones arena */
+.clase4{
+    background-color: sandybrown;
+    border: 6px solid #be6041;
+    color: white;
+    width: 35%;
+    margin: 2%;
+    position:;
+    left: 50px;
+    position: relative;
+    top:10px;
+    left: 900px;    
+   
+    
+}
+.clase5{
+background-color: sandybrown;
+    border: 6px solid #be6041 ;
+    color: white;
+    width: 35%;
+    margin: 2%;
+    position: relative;
+    top:10px;
+    left: 900px;   
+}
+/*Fin del arena*/
+/*Bloque azul*/
+.clase6{
+ background-color: #31639c;
+ border: 5px dashed #0e4bef;
+ width: 40%;
+margin: 2%;
+    float: center;
+     position: relative;
+    top:10px;
+    left: 310px;
+ 
+}
+.clase7{
+ background-color: #31639c;
+ border: 5px dashed #0e4bef;   
+ width: 40%;
+ margin: 2%;
+  position: relative;
+    top:10px;
+    left: 310px;
+}
+/*Fin del azul*/

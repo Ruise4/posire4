@@ -1,0 +1,65 @@
+/*
+*/
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.nave1{
+    margin: 5px;
+   
+}
+
+.a2{
+  float:right;
+   
+}
+ /*Google*/
+.clase1{
+    font-size: 100px;
+    text-align: center;
+  
+}
+p2{
+    color: blue;
+   
+}
+p3{
+    color: red;
+    
+}
+p4{
+    color: yellow
+}
+p5{
+    color:blue
+}
+p6{
+    color:green
+}
+p7{
+    color:red
+}
+/*
+Buscadores
+*/
+.clase2{
+    text-align: center;
+    
+}
+
+.clase3{
+   text-align: center;
+    
+}
+footer{
+ padding: 20px;
+ background-color:gainsboro;
+ width: 100%;
+ position: fixed;
+ bottom: 0px;
+ color: dimgray;
+ 
+}
+.a3{
+    float: right;
+}

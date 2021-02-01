@@ -1,0 +1,18 @@
+/*
+Ejercicio de las listas
+*/
+
+.lista1{
+list-style: upper-alpha;
+}
+
+.lista2{
+    list-style: lower-alpha;
+}
+
+.lista3{
+   list-style: upper-alpha;
+}
+.lista4{
+    list-style: lower-alpha;
+}

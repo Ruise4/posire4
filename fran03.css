@@ -1,0 +1,43 @@
+/*El quijote*/
+
+
+
+body{
+    border: 10px,solid gainsboro;
+    
+}
+
+header,footer{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border: solid 3px grey;
+}
+
+section{
+    background-color: orange;
+    overflow: auto;
+    float: right;
+    border: solid 3px grey;
+    }
+article{
+    height:80%;
+    
+}
+aside{
+ width: 20%;
+ height: 100%;
+ background-position: left;
+ float: left;
+ background-color: white;
+ overflow: auto;
+ border: solid 3px grey;
+
+ 
+}
+img{
+    width:100%;   
+}
+p{
+    margin: 20px
+}
